@@ -3,9 +3,13 @@ h3 {
 }
 
 img {
-
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 15%;
 }
 
 .photos {
    text-align: center;
+
 }
